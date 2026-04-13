@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fox.fi.freemcserver.net49550",
+    "ip": "fox.fi.freemcserver.net",
     "port":49550,
     "version": "",
     "try-creative": false
