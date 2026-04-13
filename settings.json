@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Crazycrackheads.enderman.cloud",
-    "port":,
+    "ip": "CrazyCrackheads.aternos.me",
+    "port":56635,
     "version": "",
     "try-creative": false
   },
