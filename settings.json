@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "CrazyCrackheads.aternos.me",
+    "port":56635,
     "version": "",
     "try-creative": false
   },
